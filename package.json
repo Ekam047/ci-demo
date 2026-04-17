@@ -1,0 +1,4 @@
+{
+  "name": "ci-demo",
+  "scripts": { "test": "node math.test.js" }
+}
